@@ -1,7 +1,7 @@
 # Estrutura de Dados-MII
 IFPI data structure explanation
 
-#Tabela tempo de execução
+Tabela tempo de execução
 
 | Algoritmo de Ordenação | Tempo de Execução (segundos) |
 |------------------------|------------------------------|
@@ -12,7 +12,7 @@ IFPI data structure explanation
 | Quick Sort             | 0.007                        |
 | Heap Sort              | 0.001                        |
 
-#Tabela Número de Comparações
+Tabela Número de Comparações
 
 | Algoritmo de Ordenação | Número de Comparações |
 |------------------------|-----------------------|
@@ -23,7 +23,7 @@ IFPI data structure explanation
 | Quick Sort             | -                     |
 | Heap Sort              | -                     |
 
-#Tabela Número de Trocas
+Tabela Número de Trocas
 
 | Algoritmo de Ordenação | Número de Trocas |
 |------------------------|------------------|
